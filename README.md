@@ -49,7 +49,10 @@ This is an indicative model, not a quote. Real output would differ because:
 
 - **One average day, repeated.** The model simulates a single typical day, every
   day. Real Chennai Decembers (northeast monsoon) generate ~30% less; the
-  battery is also assumed to start each day fully charged.
+  battery is also assumed to start each day fully charged.  Note: the ~4 peak sun hours used here is an annual average, so annual energy
+  totals and payback are realistic. But daily independence during monsoon weeks
+  (Dec output ~30–50% lower) will be lower — the grid remains the monsoon
+  backstop even with a battery.
 - **Roof area & orientation not measured.** 5.2 kW needs roughly 350–400 sq ft
   of shadow-free roof facing (ideally) south. That's the first thing a site
   survey would check.

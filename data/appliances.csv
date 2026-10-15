@@ -1,0 +1,11 @@
+appliance,watts,hours_per_day,duty_cycle,kwh_per_day,share_pct
+Split AC (1-ton, thermostat cycles),2000,15,0.45,13.5,65
+Fans (3),225,10,1.0,2.25,11
+Laptops (3),195,9,1.0,1.76,8
+Geyser,2000,0.5,1.0,1.00,5
+Fridge (cycles),150,24,0.30,1.08,5
+TV,100,4,1.0,0.40,2
+Lights (6 LED),54,5,1.0,0.27,1
+Router,10,24,1.0,0.24,1
+Kettle,2000,0.1,1.0,0.20,1
+Washing machine,500,0.3,1.0,0.15,1
